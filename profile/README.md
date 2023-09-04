@@ -16,16 +16,6 @@
 
 <img src="profile/img/nyantocat.gif" width="100px">
 
-## 从个人仓库中导入仓库
-
-当导入以前的项目和新建的项目时，请使用 ***Transferring a repository*** 。
-
-我们不推荐使用Fork，GitHub 对 Fork 的仓库有比较低的优先级，并且 Fork 的仓库很多，除非源仓库特别指明，大家偏向去查看源仓库而不是 Fork。新建仓库可以，但是会造成大家对于你名下的仓库和组织里的同仓库造成疑惑和分流，这种情况下建议隐藏或者删除个人名下的仓库。最好的办法是仓库的转移，原有的 Stars, Issues, PRs 等信息都能无缝保留，GitHub 还会自动建立原地址到新地址的跳转。
-
-[Transferring a repository(Github Docs)](https://docs.github.com/cn/repositories/creating-and-managing-repositories/transferring-a-repository)
-
-[知乎原文章链接](https://www.zhihu.com/question/461788322)
-
 ## 社团介绍
 
 ### 社团简介
@@ -58,3 +48,12 @@
 
 - 无论你是菜鸟还是大神，无论你是否有接触过电脑方面的知识，只要你对此感兴趣，我们都期待你的到来~
 
+## 从个人仓库中导入仓库
+
+当导入以前的项目和新建的项目时，请使用 ***Transferring a repository*** 。
+
+我们不推荐使用Fork，GitHub 对 Fork 的仓库有比较低的优先级，并且 Fork 的仓库很多，除非源仓库特别指明，大家偏向去查看源仓库而不是 Fork。新建仓库可以，但是会造成大家对于你名下的仓库和组织里的同仓库造成疑惑和分流，这种情况下建议隐藏或者删除个人名下的仓库。最好的办法是仓库的转移，原有的 Stars, Issues, PRs 等信息都能无缝保留，GitHub 还会自动建立原地址到新地址的跳转。
+
+[Transferring a repository(Github Docs)](https://docs.github.com/cn/repositories/creating-and-managing-repositories/transferring-a-repository)
+
+[知乎原文章链接](https://www.zhihu.com/question/461788322)
